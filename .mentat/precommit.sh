@@ -1,3 +1,3 @@
-npx prettier --write "*.html"
-npx stylelint "**/*.{css,html}" --fix
-live-server --no-browser
+html-validate index.html
+stylelint "**/*.{css,html}"
+prettier --write *.html

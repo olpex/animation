@@ -1,0 +1,1 @@
+{"extends": ["html-validate:standard"], "rules": {"element-permitted-content": "warn", "no-inline-style": "off", "no-trailing-whitespace": "warn", "close-order": "error"}}
